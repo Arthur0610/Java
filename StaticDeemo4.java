@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class StaticDeemo4{
+public class StaticDeemo4{
   public static void main(String[] args){
     int[] arr = new int[20];
     // // 调用java自身Arrays工具类
@@ -12,10 +12,37 @@ class StaticDeemo4{
   }
 }
 
-class ArrayTool{
+public class ArrayTool{
+  //这个工具类私有化
+  private ArrayTool(){}
   public static void fill(int[] arr, int number){
     for(int i = 0; i < arr.length; i++){
       arr[i] = number;
     }
   }
+  public static int find(int[] arr,int number){
+    int index = -1;
+    for(int i = 0; i < arr.length; i++){
+      if(number == arr[i]){
+        index = i; break;
+      }
+    }
+    return index;
+  }
 }
+
+public class StringTool{
+  private StringTool(){}
+    public static int indexOf(String str, char c){
+      int index = -1;
+        if(c == str.charAt(i)){
+          index = i; break;
+        }
+      }
+      return index;
+    }
+}
+
+// 帮助文档的生成
+// $javadoc -d api filename.java
+// 一个类一个文件
