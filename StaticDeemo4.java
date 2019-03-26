@@ -9,6 +9,7 @@ public class StaticDeemo4{
     // tool.fill(arr, 34);
     ArrayTool.fill(arr, 34);
     System.out.println(arr[0] + "-" + arr[1] + "-" + arr[7]);
+    System.out.println(StringTool.indexOf("ojbk", 'k'));
   }
 }
 
@@ -35,6 +36,7 @@ public class StringTool{
   private StringTool(){}
     public static int indexOf(String str, char c){
       int index = -1;
+      for(int i = 0; i < arr.length(); i++){
         if(c == str.charAt(i)){
           index = i; break;
         }
@@ -46,3 +48,8 @@ public class StringTool{
 // 帮助文档的生成
 // $javadoc -d api filename.java
 // 一个类一个文件
+
+// 静态代码块 == > 做初始化
+// static{
+//
+// }
