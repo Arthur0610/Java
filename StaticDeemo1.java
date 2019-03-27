@@ -14,9 +14,24 @@
 // mian方法就是一个静态方法 可以通过类名来直接调用
 // StaticDeemo3.main  直接调用
 
+// 帮助文档的生成
+// $javadoc -d api filename.java
+// 一个类一个文件
+
+// 静态代码块 == > 做初始化
+// static{
+//
+// }
 
 
 class StaticDeemo1{
+  // 静态代码块 == > 做初始化
+  // static{
+  //
+  // }
+  static{
+    System.out.println("StaticDeemo1 Static Deemo");
+  }
   public static void main(String[] args){
     Person p1 = new Person("kk", 19);
     p1.country = "china";
@@ -39,6 +54,13 @@ class StaticDeemo1{
 }
 
 class Person{
+  // 静态代码块 == > 做初始化
+  // static{
+  //
+  // }
+  static{
+    System.out.println("Person class Static Deemo");
+  }
   // 添加一个静态的成员变量
   public static String country;
   public String name;
