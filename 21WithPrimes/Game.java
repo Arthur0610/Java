@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 /**
- * @author Zhenkun Xie
+ * @author ZxIE0018
  * @version 1.1.1
  */
 public class Game
