@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 /**
  * @author ZxIE0018
  * @version 1.1.1
@@ -36,72 +35,93 @@ public class Game
                     + "Press 2 to start a game\n"
                     + "Press 3 to view a help menu\n"
                     + "Press 4 to exit\n");
-        System.out.println(mainMenu);
+        int i;
+        boolean flag = true;
         
-        String helpPage = ("Help page");
-        
-        
-        Scanner scan = new Scanner(System.in);
-        int i = 0;
-        i = scan.nextInt();
-        
-        while(i < 1 || i > 4) {
-            cls();
-            System.out.println("Please enter corrent number!! (1 ~ 4)");
-            System.out.println("\n");
+        do{
             System.out.println(mainMenu);
-            i = scan.nextInt();
-        }
-        
-        switch(i) {
-             case 1: {
-                 cls();
-                 System.out.println("Pressing 1");
-                 System.out.println("Please give a name for your player");
-                 Scanner playerNameScan = new Scanner(System.in);
-                 String playerName = playerNameScan.next();
-                 if(playerName.length() > 2 || playerName.length() < 11){
-                 register(Human, playerName);
-                        
-                 Human.show();
+            
+            Scanner scan = new Scanner(System.in);
+            if(scan.hasNextInt()) {
+                i = scan.nextInt();
+            
+                switch(i) {
+                    case 1: {
+                        register(Human);
                  
-                        
-                 System.out.println("set player name =" + playerName);
-                 } else {
-                 System.out.println("Error: input name size should be 3 ~ 10 char");
-                 }
+                        break;
+                    }
                 
-                
-                 break;
-            }
-             case 2: {
-                 System.out.println("Pressing 2");
+                    case 2: {
+                        System.out.println("Pressing 2 - Playing game");
                  
-                 startGame(Human, Bot, round, 0, 0, 0);
+                        if(Human.getName() == "NULL") {
+                            System.out.println("No recording about player's name!!");
+                            register(Human);
+                        }
+                 
+                        System.out.println("How many rounds u wanna play:");
+                        int roundNum = roundTotal();
+                        
+                        System.out.println("");
                     
-                 break;
-            }
-             case 3: {
-                 System.out.println("Pressing 3");
-                 System.out.println(helpPage);
-                 
-                 break;
-            }
-             case 4: {
-                 System.out.println("Pressing 4");
-                 System.out.println("21 with Primes is closing now!");
-                 System.exit(0);
+                        break;
+                    }
                 
-                 break;
+                    case 3: {
+                        System.out.println("Pressing 3");
+                        System.out.println("helpPage");
+                 
+                        break;
+                    }
+                
+                    case 4: {
+                        System.out.println("Pressing 4");
+                        System.out.println("21 with Primes is closing now!");
+                        System.exit(0);
+                
+                        break;
+                    }
+                
+                    default: {
+                        System.out.println("Please enter corrent number!!(1 ~ 4)");
+                    }
+                } 
+            } else {
+                System.out.println("Please enter corrent number !!");
             }
-             default: {
-                 System.out.println("Please enter corrent number!!(1 ~ 4)");
-            }           
-        }
+            
+
+        }while(!flag);
+        
+
+        
     }
     
-    public static void register(Player player, String name){
-        player.setName(name);
+    public static void register(Player player){        
+        System.out.println("Pressing 1 - register player's name");
+        System.out.println("Please give a name for your player");
+        Scanner playerNameScan = new Scanner(System.in);
+        String playerName = playerNameScan.next();
+        while(playerName.length() < 3 || playerName.length() > 10) {
+            cls();
+            System.out.println("Error: input name size should be 3 ~ 10 char");
+            System.out.println("Please give a name for your player");
+            playerName = playerNameScan.next();
+        }
+                 
+        player.setName(playerName);
+        System.out.println("set player name =" + playerName + " successfully!!");
+    }
+    
+    public static int roundTotal(){
+        Scanner roundNumScan = new Scanner(System.in);
+        int roundNum = roundNumScan.nextInt();
+        //
+        
+        System.out.println("Total " + roundNum + "Games");
+        
+        return roundNum;
     }
     
     public static void startGame(Player Human, Player Bot,int round, int humanScore, int botScore, int totalValue){
@@ -231,4 +251,6 @@ public class Game
     public static void cls(){
         System.out.print('\u000C');
     }
+    
+
 }

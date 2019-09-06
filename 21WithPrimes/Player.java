@@ -20,7 +20,7 @@ public class Player
     Tile TileE = new Tile(7,1);
     
     public Player(){
-        name = "XXXXXX";
+        name = "NULL";
         score = 0;
         tiles = new Tile[]{TileA, TileB, TileC, TileD, TileE};
         lastTilePlayed = null;
