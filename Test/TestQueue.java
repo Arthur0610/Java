@@ -11,5 +11,7 @@ public class TestQueue {
 
          while (queue.size() > 0)
             System.out.print(queue.remove() + " ");
+
      }
+
 }
