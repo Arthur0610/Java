@@ -147,12 +147,6 @@ public class Game
     
     
     public void highScore() {
-    }
-    //Clear screen at method call
-    //Printing a formfeed character (unicode 000C) clears the BlueJ terminal
-    //for example: System.out.print('\u000C');
-    public static void cls(){
-        System.out.print('\u000C');
-    }
-
+    } 
+ 
 }
