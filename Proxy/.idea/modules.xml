@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxyDeemo/DynamicProxyDeemo.iml" filepath="$PROJECT_DIR$/DynamicProxyDeemo/DynamicProxyDeemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReview/MethodReview.iml" filepath="$PROJECT_DIR$/MethodReview/MethodReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticProxyDeemo/StaticProxyDeemo.iml" filepath="$PROJECT_DIR$/StaticProxyDeemo/StaticProxyDeemo.iml" />
+    </modules>
+  </component>
+</project>
