@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven_java_test" />
+        <module name="ch19_06_Max2DArray" />
+        <module name="ch19_Genericity_Sort" />
+        <module name="ch19_10_MaxArrayList" />
+        <module name="ch19_05_MaxArray" />
+        <module name="maven_java_test1" />
+        <module name="ch19_07_BinarySearch" />
+        <module name="maven_javaweb_test" />
+        <module name="ch19_11_ComplexMatrix" />
+        <module name="reflect" />
+        <module name="ch19_03_RemoveDuplicates" />
+        <module name="ch20_EvaluateExpression" />
+        <module name="ch19_04_LinearSearch" />
+        <module name="ch19_08_ShuffleArrayList" />
+        <module name="ch19_01_GenericStackWithArray" />
+        <module name="ch20_Collection_MultipleBounceBall" />
+        <module name="ch19_Genericity_GenericMarix" />
+        <module name="DynamicProgramming" />
+        <module name="Multithread" />
+        <module name="TCP" />
+        <module name="ch19_09_SortArrayList" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch19_01_GenericStackWithArray" target="1.8" />
+      <module name="ch19_03_RemoveDuplicates" target="1.8" />
+      <module name="ch19_04_LinearSearch" target="1.8" />
+      <module name="ch19_05_MaxArray" target="1.8" />
+      <module name="ch19_06_Max2DArray" target="1.8" />
+      <module name="ch19_07_BinarySearch" target="1.8" />
+      <module name="ch19_08_ShuffleArrayList" target="1.8" />
+      <module name="ch19_09_SortArrayList" target="1.8" />
+      <module name="ch19_10_MaxArrayList" target="1.8" />
+      <module name="ch19_11_ComplexMatrix" target="1.8" />
+      <module name="ch19_Genericity_GenericMarix" target="1.8" />
+      <module name="ch19_Genericity_Sort" target="1.8" />
+      <module name="ch20_Collection_MultipleBounceBall" target="1.8" />
+      <module name="ch20_EvaluateExpression" target="1.8" />
+      <module name="DynamicProgramming" target="1.8" />
+      <module name="maven_java_test" target="1.8" />
+      <module name="maven_java_test1" target="1.8" />
+      <module name="maven_javaweb_test" target="1.8" />
+      <module name="Multithread" target="1.8" />
+      <module name="reflect" target="1.8" />
+      <module name="TCP" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

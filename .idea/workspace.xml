@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37087f43-829c-40b9-9970-eb2fbfa9eda3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/GenericMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/IntegerMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/RationalMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/maven_java_test1/maven_java_test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/maven_javaweb_test/maven_javaweb_test.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/DataStructure/ch19_genericity_sort/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_01_genericStackWithArray/target/" />
+    <ignored path="$PROJECT_DIR$/Maven/maven_java_test/target/" />
+    <ignored path="$PROJECT_DIR$/Maven/maven_java_test1/target/" />
+    <ignored path="$PROJECT_DIR$/Maven/maven_javaweb_test/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_03_removeDuplicates/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_04_linearSearch/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_05_maxArray/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_06_max2DArray/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_08_shuffleArrayList/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_07_binarySearch/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19_09_sortArrayList/target/" />
+    <ignored path="$PROJECT_DIR$/ch19_10_maxArrayList/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_10_maxArrayList/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_03_RemoveDuplicates/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_04_LinearSearch/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_05_MaxArray/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_07_BinarySearch/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_09_SortArrayList/target/" />
+    <ignored path="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/target/" />
+    <ignored path="$PROJECT_DIR$/Web/TCP/target/" />
+    <ignored path="$PROJECT_DIR$/Thread/Multithread/target/" />
+    <ignored path="$PROJECT_DIR$/Algorithm/DynamicProgramming/target/" />
+    <ignored path="$PROJECT_DIR$/Reflect/reflect/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web/TCP/src/main/java/edu/zxie0018/tcp/TcpClientDeemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thread/Multithread/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/VarSafe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray/src/main/java/edu/zxie0018/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Reflect/reflect/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/GetDeclaredConstructorsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/ExtendsThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_sort/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_sort/src/main/java/edu/zxie0018/App.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_sort/src/main/java/edu/zxie0018/GenericSort.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_sort/src/test/java/edu/zxie0018/AppTest.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/src/main/java/edu/zxie0018/GenericMatrix.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/src/main/java/edu/zxie0018/IntegerMatrix.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/src/main/java/edu/zxie0018/Rational.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/src/main/java/edu/zxie0018/RationalMatrix.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/src/test/java/edu/zxie0018/AppTest.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/src/main/java/edu/zxie0018/MathClass/Rational.java" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Rational.java" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/MathClass/Rational.java" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/GenericMatrix.java" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/test/java/edu/zxie0018/AppTest.java" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/ComplexMatrix.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/src/main/java/edu/zxie0018/MultipleBounceBall.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/src/main/java/edu/zxie0018/EvaluateExpression.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/src/main/java/edu/zxie0018/App.java" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/src/test/java/edu/zxie0018/AppTest.java" />
+        <option value="$PROJECT_DIR$/Web/TCP/pom.xml" />
+        <option value="$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/ExtendsThread.java" />
+        <option value="$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/VarSafe.java" />
+        <option value="$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/Test.java" />
+        <option value="$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/App.java" />
+        <option value="$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/Test.java" />
+        <option value="$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/GetDeclaredConstructorsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\OpenSource\apache-maven-3.6.1\repo" />
+        <option name="mavenHome" value="D:/Java/OpenSource/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Java\OpenSource\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ch20_EvaluateExpression" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/Maven/maven_java_test/maven_java_test.iml" />
+        <option value="$PROJECT_DIR$/Maven/maven_java_test1/maven_java_test1.iml" />
+        <option value="$PROJECT_DIR$/Maven/maven_javaweb_test/maven_javaweb_test.iml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/maven_javaweb_test_war.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/maven_javaweb_test_war_exploded.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/ch19_11_ComplexMatrix.iml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/ch20_Collection_MultipleBounceBall.iml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/ch20_EvaluateExpression.iml" />
+        <option value="$PROJECT_DIR$/Web/TCP/TCP.iml" />
+        <option value="$PROJECT_DIR$/Thread/Multithread/Multithread.iml" />
+        <option value="$PROJECT_DIR$/Reflect/reflect/reflect.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="966" />
+    <option name="width" value="2130" />
+    <option name="height" value="1542" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zxie0018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataStructure" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github\Java\DataStructureExercises\ch19" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.zxie0018" />
+      <recent name="edu.zxie0018.MathClass" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\Java\DataStructureExercises\ch19\ch19_11_ComplexMatrix\src\main\java\edu\zxie0018" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GetDeclaredConstructorsTest">
+    <configuration name="ExtendsThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.zxie0018.ExtendsThread" />
+      <module name="Multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zxie0018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetDeclaredConstructorsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.zxie0018.GetDeclaredConstructorsTest" />
+      <module name="reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zxie0018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.zxie0018.Test" />
+      <module name="Multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zxie0018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.zxie0018.VarSafe" />
+      <module name="Multithread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zxie0018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch20_EvaluateExpression" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.zxie0018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.zxie0018" />
+      <option name="MAIN_CLASS_NAME" value="edu.zxie0018.AppTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetDeclaredConstructorsTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.VarSafe" />
+        <item itemvalue="Application.ExtendsThread" />
+        <item itemvalue="JUnit.AppTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37087f43-829c-40b9-9970-eb2fbfa9eda3" name="Default Changelist" comment="" />
+      <created>1607313254061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607313254061</updated>
+      <workItem from="1607313255333" duration="10000" />
+      <workItem from="1607343389119" duration="18329000" />
+      <workItem from="1608708600254" duration="2005000" />
+      <workItem from="1610190132663" duration="13000" />
+      <workItem from="1610462297049" duration="607000" />
+      <workItem from="1610851428880" duration="30000" />
+      <workItem from="1612015055312" duration="8221000" />
+      <workItem from="1612684429328" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest_testIntegerMatrix - 2020.12.07 at 23h 29m 02s.xml">
+      <configuration name="AppTest.testIntegerMatrix" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testRationalMatrix - 2020.12.07 at 23h 31m 48s.xml">
+      <configuration name="AppTest.testRationalMatrix" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testRationalMatrix_(1) - 2020.12.08 at 00h 27m 05s.xml">
+      <configuration name="AppTest.testRationalMatrix (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testRationalMatrix_(1) - 2020.12.08 at 00h 27m 40s.xml">
+      <configuration name="AppTest.testRationalMatrix (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_test1 - 2020.12.09 at 18h 48m 15s.xml">
+      <configuration name="AppTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_test2 - 2020.12.09 at 18h 48m 21s.xml">
+      <configuration name="AppTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_test2 - 2020.12.09 at 18h 48m 33s.xml">
+      <configuration name="AppTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_test3 - 2020.12.09 at 18h 48m 36s.xml">
+      <configuration name="AppTest.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2020.12.09 at 18h 48m 52s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_test1 - 2020.12.09 at 18h 48m 58s.xml">
+      <configuration name="AppTest.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29813000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="644" y="0" width="1420" height="1028" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27867648" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299373" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299373" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3299373" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32941177" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_Sort/src/main/java/edu/zxie0018/GenericSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_Sort/src/test/java/edu/zxie0018/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/src/main/java/edu/zxie0018/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/src/main/java/edu/zxie0018/Matrix/RationalMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/src/main/java/edu/zxie0018/Matrix/IntegerMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/src/main/java/edu/zxie0018/MathClass/Rational.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#2900#2901#0" expanded="true" />
+            <element signature="e#2941#2942#0" expanded="true" />
+            <element signature="e#3045#3046#0" expanded="true" />
+            <element signature="e#3088#3089#0" expanded="true" />
+            <element signature="e#3186#3187#0" expanded="true" />
+            <element signature="e#3238#3239#0" expanded="true" />
+            <element signature="e#3339#3340#0" expanded="true" />
+            <element signature="e#3381#3382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/src/main/java/edu/zxie0018/Matrix/GenericMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/ch19_Genericity_GenericMarix.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_03_RemoveDuplicates/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_04_LinearSearch/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_05_MaxArray/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_06_max2DArray/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_08_shuffleArrayList/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_07_BinarySearch/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch19_10_maxArrayList/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_09_SortArrayList/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/RationalMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/MathClass/Rational.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_10_MaxArrayList/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/IntegerMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/src/test/java/edu/zxie0018/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="26" selection-start-line="26" selection-end-line="27" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/ch19_11_ComplexMatrix.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/GenericMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/main/java/edu/zxie0018/Matrix/ComplexMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/src/main/java/edu/zxie0018/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/src/main/java/edu/zxie0018/MultipleBounceBall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/src/main/java/edu/zxie0018/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/src/main/java/edu/zxie0018/EvaluateExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/src/test/java/edu/zxie0018/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/src/test/java/edu/zxie0018/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/src/test/java/edu/zxie0018/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/TCP/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/TCP/src/main/java/edu/zxie0018/tcp/TcpServerDeemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/test/java/edu/zxie0018/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/App.java" />
+    <entry file="file://$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/App.java" />
+    <entry file="file://$PROJECT_DIR$/Web/TCP/src/main/java/edu/zxie0018/tcp/TcpClientDeemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Multithread/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/VarSafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray/src/main/java/edu/zxie0018/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reflect/reflect/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread/Multithread/src/main/java/edu/zxie0018/ExtendsThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reflect/reflect/src/main/java/edu/zxie0018/GetDeclaredConstructorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>reflect</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression" />
+    <option value="clean" />
+  </component>
+</project>

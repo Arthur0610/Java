@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Algorithm/DynamicProgramming" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_Sort" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_03_RemoveDuplicates" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_04_LinearSearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_05_MaxArray" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_07_BinarySearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_09_SortArrayList" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_10_MaxArrayList" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven/maven_java_test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maven/maven_javaweb_test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thread/Multithread" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Web/TCP" charset="UTF-8" />
+  </component>
+</project>

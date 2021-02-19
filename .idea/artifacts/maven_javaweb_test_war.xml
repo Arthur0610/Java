@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="maven_javaweb_test:war">
+    <output-path>$PROJECT_DIR$/Maven/maven_javaweb_test/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>maven_javaweb_test</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="maven_javaweb_test.war">
+      <element id="artifact" artifact-name="maven_javaweb_test:war exploded" />
+    </root>
+  </artifact>
+</component>

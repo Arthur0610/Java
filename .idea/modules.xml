@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/Algorithm/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Multithread/Multithread.iml" filepath="$PROJECT_DIR$/Thread/Multithread/Multithread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web/TCP/TCP.iml" filepath="$PROJECT_DIR$/Web/TCP/TCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray/ch19_01_GenericStackWithArray.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray/ch19_01_GenericStackWithArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_03_RemoveDuplicates/ch19_03_RemoveDuplicates.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_03_RemoveDuplicates/ch19_03_RemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_04_LinearSearch/ch19_04_LinearSearch.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_04_LinearSearch/ch19_04_LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_05_MaxArray/ch19_05_MaxArray.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_05_MaxArray/ch19_05_MaxArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_06_max2DArray/ch19_06_Max2DArray.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_06_max2DArray/ch19_06_Max2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_07_BinarySearch/ch19_07_BinarySearch.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_07_BinarySearch/ch19_07_BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_08_shuffleArrayList/ch19_08_ShuffleArrayList.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_08_shuffleArrayList/ch19_08_ShuffleArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_09_SortArrayList/ch19_09_SortArrayList.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_09_SortArrayList/ch19_09_SortArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_10_MaxArrayList/ch19_10_MaxArrayList.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_10_MaxArrayList/ch19_10_MaxArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/ch19_11_ComplexMatrix.iml" filepath="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/ch19_11_ComplexMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/ch19_Genericity_GenericMarix.iml" filepath="$PROJECT_DIR$/DataStructure/ch19_Genericity_GenericMarix/ch19_Genericity_GenericMarix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/ch19_Genericity_Sort/ch19_Genericity_Sort.iml" filepath="$PROJECT_DIR$/DataStructure/ch19_Genericity_Sort/ch19_Genericity_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/ch20_Collection_MultipleBounceBall.iml" filepath="$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/ch20_Collection_MultipleBounceBall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/ch20_EvaluateExpression.iml" filepath="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/ch20_EvaluateExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven/maven_java_test/maven_java_test.iml" filepath="$PROJECT_DIR$/Maven/maven_java_test/maven_java_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven/maven_java_test1/maven_java_test1.iml" filepath="$PROJECT_DIR$/Maven/maven_java_test1/maven_java_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maven/maven_javaweb_test/maven_javaweb_test.iml" filepath="$PROJECT_DIR$/Maven/maven_javaweb_test/maven_javaweb_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflect/reflect/reflect.iml" filepath="$PROJECT_DIR$/Reflect/reflect/reflect.iml" />
+    </modules>
+  </component>
+</project>

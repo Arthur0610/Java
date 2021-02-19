@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Maven/maven_javaweb_test" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_sort/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch19_genericity_genericMarix/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_01_genericStackWithArray/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/maven_java_test/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/maven_java_test1/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven/maven_javaweb_test/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_03_removeDuplicates/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_04_linearSearch/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_05_maxArray/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_06_max2DArray/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_08_shuffleArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_07_binarySearch/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19_09_sortArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_10_maxArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_11_ComplexMatrix/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_Collection_MultipleBounceBall/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_01_GenericStackWithArray/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_03_RemoveDuplicates/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_04_LinearSearch/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_05_MaxArray/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_07_BinarySearch/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructureExercises/ch19/ch19_09_SortArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructure/ch20_EvaluateExpression/pom.xml" />
+        <option value="$PROJECT_DIR$/Web/TCP/pom.xml" />
+        <option value="$PROJECT_DIR$/Algorithm/DynamicProgramming/pom.xml" />
+        <option value="$PROJECT_DIR$/Thread/Multithread/pom.xml" />
+        <option value="$PROJECT_DIR$/Reflect/reflect/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
